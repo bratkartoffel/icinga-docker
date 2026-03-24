@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: '51 23 * * 0'
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 env:
   REGISTRY: docker.io

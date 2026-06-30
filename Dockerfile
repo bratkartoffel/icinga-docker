@@ -1,4 +1,4 @@
-FROM docker.io/icinga/icinga2:latest@sha256:ced91a6d70eef10a2378e3f9b89175a3b41945f0c65f81dc85c2fecc29499ee2
+FROM docker.io/icinga/icinga2:latest@sha256:d7ecbb62dd70d76f999a34bf7371a9c22100b18f8d3a11442ca0caa918f27a39
 
 USER root
 
